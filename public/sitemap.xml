@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.duijzer.com/about/</loc>
+    <lastmod>2018-08-07T14:37:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.duijzer.com/posts/my-first-post/</loc>
+    <lastmod>2018-08-07T13:49:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.duijzer.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.duijzer.com/</loc>
+    <lastmod>2018-08-07T13:49:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.duijzer.com/posts/</loc>
+    <lastmod>2018-08-07T13:49:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.duijzer.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
