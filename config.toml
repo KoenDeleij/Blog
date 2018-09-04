@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://koens-blog.netlify.com"
 languageCode = "en-us"
 title = "Koen's blog"
 theme = "hugo-goa"
@@ -40,10 +40,10 @@ stackoverflow = "<username>"
 email = "you@example.com"
 
 ## Extras
-[params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = true
-highlightjs = true
+##[params.extra]
+##copyright = "© 2018. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+##poweredby = true
+##highlightjs = true
 
 ## Main Menu
 [[menu.main]]
