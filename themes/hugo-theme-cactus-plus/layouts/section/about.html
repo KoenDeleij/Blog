@@ -2,12 +2,11 @@
 <body>
 {{ partial "nav.html" . }}
 {{ partial "profile.html" . }}
-
 <section id="wrapper" class="home">
     {{ .Content }}
 
     {{ if .Site.Params.enableDisqus }}
-        {{ if ne .Params.disabledisqus "true" }}
+        {{ if ne .Params.disabledisqus true }}
             {{ partial "disqus.html" . }}
         {{ end }}
     {{ end }}

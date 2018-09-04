@@ -4,8 +4,6 @@ languageCode = "en"
 title = "site title"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
-# Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
 
 [params]
 	author = "site_author"
@@ -21,13 +19,12 @@ hasCJKLanguage = false
 	enableDisqus = true
 	disqusShortname = "your_disqus_short_name"
 
-
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
 	useDescriptionReplaceSummary = false
 
 
-	enableGoogleAnalytics = true
+	enableGoogleAnalytics = false
 	enableBaiduAnalytics = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
