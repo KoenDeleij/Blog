@@ -19,7 +19,7 @@ enableRobotsTXT = true
 author = "Koen Deleij"
 intro = "Mobile Dev"
 description = "Something something"
-authorimage = "avatar@2x.png"
+authorimage = "avatar.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -29,21 +29,9 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
-instagram = "<username>"
-xing = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-stackoverflow = "<username>"
-email = "you@example.com"
-
-## Extras
-##[params.extra]
-##copyright = "© 2018. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-##poweredby = true
-##highlightjs = true
+github = "koendeleij"
+linkedin = "koendeleij"
+email = "koen.deleij@redhotminute.com"
 
 ## Main Menu
 [[menu.main]]
