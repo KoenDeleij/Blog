@@ -1,23 +1,4 @@
-baseURL = "https://blog.koen.com/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Koens Blog"
+title = "My New Hugo Site"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = ""
-
-[params]
-enableSummary = true
-useDescriptionReplaceSummary = false
-enableRSS = true
-enableDisqus = true
-disqusShortname = "blog-koen-com"
-enableGoogleAnalytics = "true"
-
-iconFont = "font-awesome"
-socialIconStyle = ""
-
-[taxonomies]
-   tag = "tags"
-   category = "categories"
-
-[social]
-github-square = "https://www.github.com/koendeleij"
